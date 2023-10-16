@@ -1,9 +1,17 @@
 # Eye_movement
 
-**Description:** It appears that your project aims to create a simple interactive animation where a pair of eyes follows the movement of the mouse cursor. 
-This type of project is often used for fun and creative purposes, 
-and it's a good exercise for learning about event handling in JavaScript and basic CSS animations.
+**Description:**
 
-**Future Improvements:** Make the pupils follow the cursor more smoothly.Add support for multiple cursors.
+This HTML document creates a simple interactive face with moving eyes that follow the user's mouse cursor. The face consists of a yellow circle with two eyes, and the eyes' black pupils follow the mouse movement.
 
-**Link:** https://yogesh-mca2023.github.io/Eye_movement/
+**How to run the code:**
+
+***Step1:*** Save the HTML file with .html extension.
+
+***Step2:*** Click the "Go Live" button.A new browser window will open, displaying EyeBall moving.
+
+**Future Enhancement:**
+
+1)Add facial expressions or animations to make the interactive face more engaging.
+
+2)Implement user interaction, such as clicking on the eyes to trigger actions or reactions.
